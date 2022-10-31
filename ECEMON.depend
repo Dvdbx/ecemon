@@ -1,0 +1,863 @@
+# depslib dependency file v1.0
+1604579630 source:c:\users\zarga\onedrive\bureau\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+
+1604579175 source:c:\users\zarga\onedrive\bureau\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1604579161 c:\users\zarga\onedrive\bureau\ecemon\attaque.h
+
+1604579270 source:c:\users\zarga\onedrive\bureau\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1604579270 c:\users\zarga\onedrive\bureau\ecemon\cartes.h
+
+1604579388 source:c:\users\zarga\onedrive\bureau\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1604579377 c:\users\zarga\onedrive\bureau\ecemon\energies.h
+	"Cartes.h"
+	"iostream"
+
+1604579483 source:c:\users\zarga\onedrive\bureau\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1604579606 c:\users\zarga\onedrive\bureau\ecemon\menu.h
+
+1604579483 c:\users\zarga\onedrive\bureau\ecemon\utilitaire.h
+
+1604579661 source:c:\users\zarga\onedrive\bureau\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1604579793 source:c:\users\zarga\onedrive\bureau\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+
+1604579819 c:\users\zarga\onedrive\bureau\ecemon\monstre.h
+	"Attaque.h"
+
+1604579919 source:c:\users\zarga\onedrive\bureau\ecemon\speciale.cpp
+	"speciale.h"
+
+1604579875 c:\users\zarga\onedrive\bureau\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+
+1606604344 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1606574764 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\attaque.h
+	<iostream>
+
+1606667945 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1606667730 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\cartes.h
+	<iostream>
+	"Attaque.h"
+
+1606570848 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1606320898 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\energies.h
+	"monstre.h"
+	"Energies.h"
+	"speciale.h"
+	<vector>
+	"Cartes.h"
+	<iostream>
+	"utilitaire.h"
+
+1606666870 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	"Joueur.h"
+	<vector>
+	<stdio.h>
+	<conio.h>
+	"jeu.h"
+	<ctime>
+
+1606349424 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\menu.h
+
+1606503026 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+	"classJeu.h"
+	"speciale.h"
+	"Joueur.h"
+
+1606667465 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+	<stdio.h>
+	<conio.h>
+	<fstream>
+
+1606650378 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+	"utilitaire.h"
+
+1606574763 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606604345 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+	"utilitaire.h"
+
+1606604345 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1606666870 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1604673093 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\attaque.h
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1604673093 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\cartes.h
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1604673093 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\energies.h
+	"Cartes.h"
+	"iostream"
+	"utilitaire.h"
+
+1604673093 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+
+1604678887 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+
+1604673093 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\menu.h
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1604677669 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+
+1604675852 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+
+1604674664 d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1604673093 source:d:\ing2\c++\ecemon - projet\officiel\projet-informatique-1\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
+1604829073 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1604829073 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\attaque.h
+	<iostream>
+
+1604917830 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1604852968 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\cartes.h
+
+1604829073 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1604829073 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\energies.h
+	"Cartes.h"
+	"iostream"
+	"utilitaire.h"
+
+1604853545 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+
+1604852955 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+
+1604853706 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	<vector>
+
+1604783860 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\menu.h
+
+1604829073 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+
+1604829073 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+
+1604829073 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1604853545 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
+1604853673 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+
+1606667794 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"utilitaire.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606666870 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	"classJeu.h"
+
+1606666870 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"Joueur.h"
+	"Cartes.h"
+
+1606667842 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\jeu.h
+	"utilitaire.h"
+
+1604829073 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+
+1604829073 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\jeu.h
+
+1604853219 source:c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+
+1604851015 c:\users\sudav\desktop\ecole\informatique\informatique ing 2\projet informatique 1\projet-informatique-1\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+
+1604789816 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1604789858 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\attaque.h
+	<iostream>
+
+1604929412 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1604929612 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\cartes.h
+	<iostream>
+	"Attaque.h"
+
+1604926269 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1604926269 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\energies.h
+	"monstre.h"
+	"Energies.h"
+	"speciale.h"
+	<vector>
+	"Cartes.h"
+	<iostream>
+	"utilitaire.h"
+
+1604927073 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+
+1604789905 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1604928466 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+	"classJeu.h"
+
+1604929277 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+
+1604789438 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\jeu.h
+
+1604927258 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+
+1604928972 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+
+1604930800 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	<vector>
+
+1604608715 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\menu.h
+
+1604925471 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+
+1604789858 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+
+1604928465 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
+1604929338 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+	"utilitaire.h"
+
+1604926460 source:c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\classjeu.cpp
+	"classJeu.h"
+
+1604924085 c:\users\zarga\onedrive\bureau\projet-informatique - copie (2)\ecemon\classjeu.h
+	"utilitaire.h"
+
+1606650378 source:c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\classjeu.cpp
+	"classJeu.h"
+	"Joueur.h"
+
+1606650378 c:\users\zarga\onedrive\bureau\projet-informatique\ecemon\classjeu.h
+	"utilitaire.h"
+
+1606600186 source:c:\users\sudav\desktop\projet info 1\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1606589738 c:\users\sudav\desktop\projet info 1\ecemon\attaque.h
+	<iostream>
+
+1606643837 source:c:\users\sudav\desktop\projet info 1\ecemon\classjeu.cpp
+	"classJeu.h"
+	"Joueur.h"
+
+1606644292 c:\users\sudav\desktop\projet info 1\ecemon\classjeu.h
+	"utilitaire.h"
+
+1606670142 c:\users\sudav\desktop\projet info 1\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+	"classJeu.h"
+	"speciale.h"
+	"Joueur.h"
+
+1606670080 c:\users\sudav\desktop\projet info 1\ecemon\cartes.h
+	<iostream>
+	"Attaque.h"
+
+1606589738 c:\users\sudav\desktop\projet info 1\ecemon\energies.h
+	"monstre.h"
+	"Energies.h"
+	"speciale.h"
+	<vector>
+	"Cartes.h"
+	<iostream>
+	"utilitaire.h"
+
+1606589739 c:\users\sudav\desktop\projet info 1\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606656655 c:\users\sudav\desktop\projet info 1\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1606589738 source:c:\users\sudav\desktop\projet info 1\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1606658110 source:c:\users\sudav\desktop\projet info 1\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"Joueur.h"
+	"Cartes.h"
+
+1606670080 c:\users\sudav\desktop\projet info 1\ecemon\jeu.h
+	"utilitaire.h"
+
+1606670080 source:c:\users\sudav\desktop\projet info 1\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"utilitaire.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606655370 c:\users\sudav\desktop\projet info 1\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	"classJeu.h"
+
+1606656777 source:c:\users\sudav\desktop\projet info 1\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	"Joueur.h"
+	<vector>
+	<stdio.h>
+	<conio.h>
+	"jeu.h"
+	<ctime>
+
+1606589739 c:\users\sudav\desktop\projet info 1\ecemon\menu.h
+
+1606670080 source:c:\users\sudav\desktop\projet info 1\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+	<stdio.h>
+	<conio.h>
+	<fstream>
+
+1606644507 source:c:\users\sudav\desktop\projet info 1\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+	"utilitaire.h"
+
+1606596458 source:c:\users\sudav\desktop\projet info 1\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+	"utilitaire.h"
+
+1606670115 source:c:\users\sudav\desktop\projet info 1\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
+1606670080 source:c:\users\sudav\desktop\projet info 1\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1605538919 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\attaque.h
+	<iostream>
+
+1605538919 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\cartes.h
+	<iostream>
+	"Attaque.h"
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\classjeu.cpp
+	"classJeu.h"
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\classjeu.h
+	"utilitaire.h"
+
+1605685595 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+	"classJeu.h"
+	"speciale.h"
+	"Joueur.h"
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\energies.h
+	"monstre.h"
+	"Energies.h"
+	"speciale.h"
+	<vector>
+	"Cartes.h"
+	<iostream>
+	"utilitaire.h"
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1605686153 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	"classJeu.h"
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"Joueur.h"
+	"Cartes.h"
+
+1605685595 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\jeu.h
+	"utilitaire.h"
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	"Joueur.h"
+	<vector>
+	<stdio.h>
+	<conio.h>
+	"jeu.h"
+
+1605538919 d:\ing2\c++\projet 1\projet-informatique-1\ecemon\menu.h
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+	<stdio.h>
+	<conio.h>
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+	"utilitaire.h"
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+	"utilitaire.h"
+
+1605685595 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
+1605686020 source:d:\ing2\c++\projet 1\projet-informatique-1\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"utilitaire.h"
+
+1606600186 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\attaque.cpp
+	<iostream>
+	"Attaque.h"
+
+1606589738 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\attaque.h
+	<iostream>
+
+1606670080 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\cartes.cpp
+	"Cartes.h"
+	<iostream>
+
+1606670080 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\cartes.h
+	<iostream>
+	"Attaque.h"
+
+1606643837 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\classjeu.cpp
+	"classJeu.h"
+	"Joueur.h"
+
+1606644292 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\classjeu.h
+	"utilitaire.h"
+
+1606670142 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\utilitaire.h
+	"Cartes.h"
+	"Energies.h"
+	"monstre.h"
+	"Attaque.h"
+	<windows.h>
+	"classJeu.h"
+	"speciale.h"
+	"Joueur.h"
+
+1606589738 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\energies.h
+	"monstre.h"
+	"Energies.h"
+	"speciale.h"
+	<vector>
+	"Cartes.h"
+	<iostream>
+	"utilitaire.h"
+
+1606589739 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\monstre.h
+	"Cartes.h"
+	"Attaque.h"
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1606656655 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\speciale.h
+	<iostream>
+	"Cartes.h"
+	"monstre.h"
+
+1606655370 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\joueur.h
+	"monstre.h"
+	"Cartes.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<stdlib.h>
+	"classJeu.h"
+
+1606589738 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\energies.cpp
+	"Energies.h"
+	<iostream>
+
+1606658110 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\jeu.cpp
+	<iostream>
+	"utilitaire.h"
+	"jeu.h"
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"Joueur.h"
+	"Cartes.h"
+
+1606670080 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\jeu.h
+	"utilitaire.h"
+
+1606670080 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\joueur.cpp
+	<iostream>
+	"Joueur.h"
+	<vector>
+	<queue>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	"utilitaire.h"
+	<stdio.h>
+	<stdlib.h>
+
+1606656777 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\main.cpp
+	<iostream>
+	"menu.h"
+	"utilitaire.h"
+	"monstre.h"
+	"Joueur.h"
+	<vector>
+	<stdio.h>
+	<conio.h>
+	"jeu.h"
+	<ctime>
+
+1606589739 c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\menu.h
+
+1606670080 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\menu.cpp
+	<iostream>
+	"utilitaire.h"
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"jeu.h"
+	<stdio.h>
+	<conio.h>
+	<fstream>
+
+1606644507 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\monstre.cpp
+	<iostream>
+	"monstre.h"
+	"Attaque.h"
+	"utilitaire.h"
+
+1606596458 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\speciale.cpp
+	"speciale.h"
+	"monstre.h"
+	"utilitaire.h"
+
+1606670115 source:c:\users\sudav\desktop\ecole\ing2\info c++\projet info 1\ecemon\utilitaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	"utilitaire.h"
+	<iostream>
+
